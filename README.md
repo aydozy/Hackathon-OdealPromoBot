@@ -1,16 +1,37 @@
-# odeal_promobot_new
+# Ödeal - PromoBot 
 
-A new Flutter project.
+## Proje Hakkında
+PromoBo, Ödeal şirketi için özel olarak geliştirilmiş, Flutter tabanlı bir interaktif sohbet botu uygulamasıdır. Bu uygulama, kullanıcıların PromoBot ile etkileşim kurarak kendilerine özel promosyonlar ve kampanyalar hakkında bilgi almasını sağlar. Modern UI/UX tasarım ilkeleri ile geliştirilen MixedPromo, kullanıcılara akıcı ve anlaşılır bir deneyim sunar.
 
-## Getting Started
+## Ana Özellikler
+- **Kullanıcı Girişi**: Kullanıcılar, benzersiz ID'leri ile güvenli bir şekilde giriş yapabilir.
+- **Sohbet Arayüzü**: PromoBot ile gerçek zamanlı sohbet ve kişiye özel promosyon ve kampanya bilgileri.
+- **Asenkron Veri İşleme**: HTTP istekleri aracılığıyla sunucudan asenkron veri alışverişi.
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- **Flutter ve Dart**: Mobil arayüz geliştirmede kullanılır.
+- **Python ve Flask**: Backend API servislerini geliştirmede kullanılır. Bu servisler, uygulamanın veri alışverişini ve iş mantığını sağlar.
+- **HTTP Paketi**: Dart içinde, sunucudan veri alışverişi için kullanılır.
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulama Görselleri 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Splash Ekran
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splash (2)](https://github.com/aydozy/Hackathon-OdealPromoBot/assets/104395137/541bda77-f13c-4223-9c0c-29f2322936dd)
+
+### Ana Ekran 
+
+![ana ekran (1)](https://github.com/aydozy/Hackathon-OdealPromoBot/assets/104395137/bb2db8cd-a8fe-4f66-8822-e6471e5e9495)
+
+### Chat Ekranı
+
+![chat screen (1)](https://github.com/aydozy/Hackathon-OdealPromoBot/assets/104395137/f2a394b4-dadb-4280-ba9b-8f0c2bb88742)
+
+## Demo
+
+[](https://github.com/aydozy/Hackathon-OdealPromoBot/assets/104395137/4a63ee1e-91e0-4b46-a3fc-5905b45b89dc)
+
+
+
+
+
