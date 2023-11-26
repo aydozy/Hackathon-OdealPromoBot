@@ -31,7 +31,7 @@
 
 # PromoBot App
 ## Proje Hakkında 
-PromoBot, Ödeal şirketi için özel olarak geliştirilmiş, Flutter tabanlı bir interaktif sohbet botu uygulamasıdır. Bu uygulama, kullanıcıların PromoBot ile etkileşim kurarak kendilerine özel promosyonlar ve kampanyalar hakkında bilgi almasını sağlar. Modern UI/UX tasarım ilkeleri ile geliştirilen MixedPromo, kullanıcılara akıcı ve anlaşılır bir deneyim sunar.
+PromoBot, kullanıcıların onunla etkileşim kurarak kendilerine özel promosyonlar ve kampanyalar hakkında bilgi almasını sağlar. Modern UI/UX tasarım ilkeleri ile geliştirilen PromoBot, kullanıcılara akıcı ve anlaşılır bir deneyim sunar.
 
 ## Ana Özellikler
 - **Kullanıcı Girişi**: Kullanıcılar, benzersiz ID'leri ile güvenli bir şekilde giriş yapabilir.
